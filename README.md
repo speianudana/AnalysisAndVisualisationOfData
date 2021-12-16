@@ -1,1 +1,1 @@
-## Laboratories for the Machine Learning & Data Mining classes.
+## Laboratories for the Analysis and Visualisation of data classes.
